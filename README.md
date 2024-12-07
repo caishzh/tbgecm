@@ -1,1 +1,1 @@
-# tbgecm
+# Twisted Bilayer Graphene Effective Continuum Model
