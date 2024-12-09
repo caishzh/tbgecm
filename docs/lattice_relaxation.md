@@ -2,7 +2,7 @@
 
 ## The Geometry of TBG
 With pure twist
-$$\begin{aligned}
+$$\begin{split}
 \vec\delta(\vec r) &= \vec u_{\rm t}(\vec r) - \vec u_{\rm b}(\vec r) \\
 &= \begin{pmatrix}
  \rm cos(\theta/2) && \rm -sin(\theta/2) \\
@@ -25,4 +25,4 @@ $$\begin{aligned}
 \begin{pmatrix}
  x \\ y
 \end{pmatrix}
-\end{aligned}$$
+\end{split}$$
